@@ -1,0 +1,45 @@
+table, th, td {
+  border:1px solid black;
+}
+
+#pie{
+	text-align: center;
+}
+.BD{
+	background-color: skyblue;
+}
+
+.LM{
+	background-color: greenyellow;
+}
+.ED{
+	background-color: coral;
+}
+.SI{
+	background-color: burlywood;
+}
+
+.PROG{
+	background-color: goldenrod;
+}
+
+.ETI{
+	background-color: yellow;
+}
+
+.FOL{
+	background-color: lightgoldenrodyellow;
+}
+
+.REC{
+	background-color: plum;
+}
+
+.HOR{
+	background-color: gray;
+}
+
+.DIA{
+	background-color: red;
+	
+}
